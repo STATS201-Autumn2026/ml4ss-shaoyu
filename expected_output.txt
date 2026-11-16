@@ -1,0 +1,15 @@
+cleaning: 4/6 reported, 2 measures, 1 units
+  S01 p.10: work_completion = 100 percent
+  S02 p.9: work_completion = 100 percent
+  S03 p.3: coverage = 100 percent
+  S04 p.7: coverage = 100 percent
+facility_condition: 4/6 reported, 2 measures, 2 units
+  S01 p.10: park_facility_condition = 94 percent
+  S02 p.9: park_facility_condition = 94.9 percent
+  S03 p.4: infrastructure_equipment_condition = 95 count
+  S04 p.8: infrastructure_equipment_condition = 95 percent
+visits: 4/6 reported, 1 measures, 1 units
+  S01 p.10: annual_visits = 352 10000_visits
+  S02 p.9: annual_visits = 419.2 10000_visits
+  S03 p.4: annual_visits = 90 10000_visits
+  S04 p.8: annual_visits = 90 10000_visits

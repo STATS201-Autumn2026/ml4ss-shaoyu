@@ -1,5 +1,4 @@
 __pycache__/
 .ipynb_checkpoints/
-.venv/
-ml4ss_results/
 *.zip
+beijing_pm25_next_hour_prepared.csv
